@@ -14,7 +14,7 @@
             </div>
             <div class="w-full md:w-3/5 space-y-4 flex flex-col justify-center items-center">
                 <div class="flex flex-col justify-center">
-                    <h1 class="text-center md:text-left text-2xl font-bold text-gray-900">MarE</h1>
+                    <h1 class="text-center md:text-left text-2xl font-bold text-gray-900">Mar. E</h1>
                     <p class="inline text-gray-700 font-normal leading-6 w-full text-base">
 
                         Apasionada escritora y lectora amante del drama y de fanfics. Enamorada de la vida. Me gusta la fantasía y las cosas frikis. Amo los gatos y escribir desde que estoy pequeña, 
