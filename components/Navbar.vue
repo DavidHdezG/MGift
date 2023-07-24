@@ -12,7 +12,7 @@ const links = [
 <template>
     <nav class="absolute  bg-transparent w-full flex justify-between items-center mx-auto px-8 py-4 h-20 text-white">
         <div class="inline-flex">
-            Mare E
+            Mar. E
         </div>
         <div class="">
             <div class="flex ">
