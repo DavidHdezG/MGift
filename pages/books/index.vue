@@ -6,20 +6,20 @@ const gloss = ref(0.4);
 
 let pages = ref([
   null,
-  "../../assets/pages/1.png",
-  "../../assets/pages/2.png",
-  "../../assets/pages/3.png",
-  "../../assets/pages/4.png",
-  "../../assets/pages/5.png",
-  "../../assets/pages/6.png",
-  "../../assets/pages/7.png",
-  "../../assets/pages/8.png",
-  "../../assets/pages/9.png",
-  "../../assets/pages/10.png",
-  "../../assets/pages/11.png",
-  "../../assets/pages/12.png",
+  "/pages/1.png",
+  "/pages/2.png",
+  "/pages/3.png",
+  "/pages/4.png",
+  "/pages/5.png",
+  "/pages/6.png",
+  "/pages/7.png",
+  "/pages/8.png",
+  "/pages/9.png",
+  "/pages/10.png",
+  "/pages/11.png",
+  "/pages/12.png",
   ,
-  "../../assets/2.png",
+  "/2.png",
 ]);
 </script>
 

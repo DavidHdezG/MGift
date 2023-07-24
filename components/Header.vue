@@ -56,7 +56,7 @@ import Navbar from "./Navbar.vue";
  */
 
 #header{
-    background: url('/assets/bg.jpg') no-repeat center ;
+    background: url('bg.jpg') no-repeat center ;
 
 }
 </style>

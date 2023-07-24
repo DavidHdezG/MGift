@@ -9,7 +9,7 @@
         <div class="flex flex-col md:flex-row w-3/4 md:w-5/6 space-x-0 md:space-x-8">
             <div class="w-full md:w-2/5 flex flex-col items-center justify-center">
                 <figure class="w-1/2 md:w-full  rounded-full overflow-hidden">
-                    <img src="../assets/about.jpg" alt="woman wearing a headwrap and an Africa-shaped earring while smiling">
+                    <img src="about.jpg" alt="woman wearing a headwrap and an Africa-shaped earring while smiling">
                 </figure>
             </div>
             <div class="w-full md:w-3/5 space-y-4 flex flex-col justify-center items-center">
